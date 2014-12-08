@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'M3U8Parser', :exclusive => true do
+  pod "M3U8Parser", :path => "../"
+
+  
+end
