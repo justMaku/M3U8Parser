@@ -6,4 +6,3 @@
 //  Copyright (c) 2014 Michał Kałużny. All rights reserved.
 //
 
-${TEST_EXAMPLE}

@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "M3U8Parser.app"
+               BlueprintIdentifier = "6003F5AD195388D20070C39A"
+               BuildableName = "M3U8Parser.xctest"
                BlueprintName = "M3U8Parser"
                ReferencedContainer = "container:M3U8Parser.xcodeproj">
             </BuildableReference>
@@ -33,8 +33,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "Tests.xctest"
-               BlueprintName = "Tests"
+               BuildableName = "M3U8Parser.xctest"
+               BlueprintName = "M3U8Parser"
                ReferencedContainer = "container:M3U8Parser.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,8 +42,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "M3U8Parser.app"
+            BlueprintIdentifier = "6003F5AD195388D20070C39A"
+            BuildableName = "M3U8Parser.xctest"
             BlueprintName = "M3U8Parser"
             ReferencedContainer = "container:M3U8Parser.xcodeproj">
          </BuildableReference>
@@ -58,11 +58,12 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "M3U8Parser.app"
+            BlueprintIdentifier = "6003F5AD195388D20070C39A"
+            BuildableName = "M3U8Parser.xctest"
             BlueprintName = "M3U8Parser"
             ReferencedContainer = "container:M3U8Parser.xcodeproj">
          </BuildableReference>
@@ -76,11 +77,12 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "M3U8Parser.app"
+            BlueprintIdentifier = "6003F5AD195388D20070C39A"
+            BuildableName = "M3U8Parser.xctest"
             BlueprintName = "M3U8Parser"
             ReferencedContainer = "container:M3U8Parser.xcodeproj">
          </BuildableReference>
