@@ -18,7 +18,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 M3U8Parser is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-    pod "M3U8Parser" :git => 'https://github.com/justMaku/M3U8Parser.git'
+    pod "M3U8Parser", :git => 'https://github.com/justMaku/M3U8Parser.git'
 
 ## Author
 
